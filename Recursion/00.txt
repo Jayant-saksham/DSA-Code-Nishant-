@@ -1,0 +1,6 @@
+how to solve resursion in DSA ?
+1. Make the function for that question
+2. Believe that the function will work well (Correct)
+3. Believe that the function will work for smaller inputs 
+4. Now, combine step 2 and 3
+5. Think the smallest case 
