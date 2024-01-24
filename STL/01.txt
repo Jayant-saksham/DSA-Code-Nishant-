@@ -1,0 +1,7 @@
+STL = Standard template library
+These are collection of templates 
+
+Template = commonly used function and data structures
+ex - Array, Stack, Queue, Linked list, etc. 
+ex - Sorting, 
+
