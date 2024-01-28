@@ -20,8 +20,10 @@ int main() {
     v.push_back(0);
     sort(v.begin(), v.end());
 
-    for(auto i=v.begin(); i!=v.end(); i++) {
-        cout<<(*i)<<endl;
+    reverse(v.begin(), v.end());
+
+    for(int i=0; i<v.size(); i++) {
+        cout<<v[i]<<endl;
     }
 
     return 0;
