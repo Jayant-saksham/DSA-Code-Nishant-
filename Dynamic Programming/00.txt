@@ -1,0 +1,8 @@
+How will you indentify that this problem is of dp or not 
+1. Max, Min, 
+2. Number of ways, number of steps, number of possiblities 
+
+Steps to solve any dp problem
+1. Make a storage (it could a 1d array or 2d array) = experience 
+2. Storage and meaning (Self talk)
+3. Travel and solve 
