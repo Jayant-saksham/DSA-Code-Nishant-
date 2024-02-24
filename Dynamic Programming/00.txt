@@ -1,5 +1,5 @@
 How will you indentify that this problem is of dp or not 
-1. Max, Min, 
+1. Max, Min, ex - minimum cost, price, maximum gold, coin, price
 2. Number of ways, number of steps, number of possiblities 
 
 Steps to solve any dp problem
